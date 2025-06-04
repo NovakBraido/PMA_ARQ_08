@@ -36,4 +36,5 @@
     atendendo às boas práticas de governança e compliance.
   </p>
 </section>
-<p>*Projeto em andamento</p>
+<p style="background-color: red; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">*Projeto em andamento</p>
+
